@@ -6,4 +6,4 @@
 
 2. git add .
 
-3. git commit -m "initial commit"
+3. git commit -m "your comment"
