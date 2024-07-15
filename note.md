@@ -13,3 +13,5 @@
 5. git branch -a    use to see all the added branch
 
 6. git switch testing or git checkout is use to switch to a particular branch
+
+7. git merge testing
